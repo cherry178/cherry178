@@ -79,6 +79,7 @@ No activity tracked
 
 #### `📈 My GitHub Stats & Streaks`
 
- ![Charishma's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherry178&theme=prussian&show_icons=true)
-  <a href="http://www.github.com/cherry178"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cherry178&theme=prussian&hide_border=true" />
-  </a>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cherry178&theme=prussian&show_icons=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cherry178&theme=prussian&hide_border=true" />
+</p>
