@@ -59,10 +59,10 @@ I enjoy transforming ideas into impactful AI products and continuously exploring
   <a href="https://github.com/cherry178/project1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry178&repo=AI-Interview-Coach&theme=prussian" />
   </a>
- <!-- <a href="https://github.com/cherry178/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry178&repo=project2&theme=prussian" />
+ <a href="https://github.com/cherry178/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry178&repo=StudySphere_AI-Study-Planner-&theme=prussian" />
   </a>
-  <a href="https://github.com/cherry178/project3">
+  <!--<a href="https://github.com/cherry178/project3">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry178&repo=project3&theme=prussian" />
   </a>-->
 </p>
@@ -80,6 +80,5 @@ No activity tracked
 #### `📈 My GitHub Stats & Streaks`
 
  ![Charishma's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherry178&theme=prussian&show_icons=true)
-  <a href="http://www.github.com/cherry178">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cherry178&theme=prussian&hide_border=true" />
-</a>
+  <a href="http://www.github.com/cherry178"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cherry178&theme=prussian&hide_border=true" />
+  </a>
