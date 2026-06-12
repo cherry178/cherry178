@@ -70,6 +70,9 @@ I enjoy transforming ideas into impactful AI products and continuously exploring
 #### `📊 This Week I Spent My Time On`
 <!--START_SECTION:waka-->
 
+```txt
+No activity tracked
+```
 
 <!--END_SECTION:waka-->
 
