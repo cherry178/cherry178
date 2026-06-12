@@ -78,8 +78,7 @@ No activity tracked
 
 
 #### `📈 My GitHub Stats & Streaks`
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cherry178&theme=prussian&show_icons=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cherry178&theme=prussian&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cherry178&show_icons=true&theme=prussian&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=cherry178&theme=prussian&hide_border=true" />
 </p>
