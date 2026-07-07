@@ -62,6 +62,7 @@ I enjoy transforming ideas into impactful AI products and continuously exploring
  <a href="https://github.com/cherry178/project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry178&repo=StudySphere_AI-Study-Planner-&theme=prussian" />
   </a>
+  
   <!--<a href="https://github.com/cherry178/project3">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry178&repo=project3&theme=prussian" />
   </a>-->
