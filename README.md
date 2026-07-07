@@ -57,8 +57,8 @@ I enjoy transforming ideas into impactful AI products and continuously exploring
 
 <p align="center">
 
-  <a href="https://github.com/cherry178/AI-Interview-Coach">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry178&repo=AI-Interview-Coach&theme=prussian" />
+  <a href="https://github.com/cherry178/AI-Interview-coach">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry178&repo=AI-Interview-coach&theme=prussian" />
   </a>
 
   <a href="https://github.com/cherry178/StudySphere_AI-Study-Planner-">
@@ -70,7 +70,6 @@ I enjoy transforming ideas into impactful AI products and continuously exploring
   </a>
 
 </p>
-
 
 #### `📊 This Week I Spent My Time On`
 <!--START_SECTION:waka-->
