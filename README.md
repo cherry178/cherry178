@@ -56,17 +56,21 @@ I enjoy transforming ideas into impactful AI products and continuously exploring
 #### `📂 Featured Projects`
 
 <p align="center">
-  <a href="https://github.com/cherry178/project1">
+
+  <a href="https://github.com/cherry178/AI-Interview-Coach">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry178&repo=AI-Interview-Coach&theme=prussian" />
   </a>
- <a href="https://github.com/cherry178/project2">
+
+  <a href="https://github.com/cherry178/StudySphere_AI-Study-Planner-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry178&repo=StudySphere_AI-Study-Planner-&theme=prussian" />
   </a>
-  
-  <!--<a href="https://github.com/cherry178/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry178&repo=project3&theme=prussian" />
-  </a>-->
+
+  <a href="https://github.com/cherry178/Resume-Builder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry178&repo=Resume-Builder&theme=prussian" />
+  </a>
+
 </p>
+
 
 #### `📊 This Week I Spent My Time On`
 <!--START_SECTION:waka-->
