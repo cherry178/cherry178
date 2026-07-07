@@ -25,7 +25,7 @@ I enjoy transforming ideas into impactful AI products and continuously exploring
 
 #### `🌱 Talking about Personal Stuffs`
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />  I’m currently building **AI Interview Coach**;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />  I’m currently building **Resume Builder**;
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />  I’m currently learning Deep Learning, PyTorch, NLP & Generative AI;
 
