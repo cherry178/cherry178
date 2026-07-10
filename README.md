@@ -75,8 +75,8 @@ I enjoy transforming ideas into impactful AI products and continuously exploring
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          1 hr 15 mins          █████████████████▒░░░░░░░   69.59 %
-JavaScript   33 mins               ███████▓░░░░░░░░░░░░░░░░░   30.41 %
+JavaScript   30 mins               ██████████████████▒░░░░░░   73.69 %
+CSS          10 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.31 %
 ```
 
 <!--END_SECTION:waka-->
