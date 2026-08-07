@@ -75,7 +75,8 @@ I enjoy transforming ideas into impactful AI products and continuously exploring
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     2 mins                █████████████████████░░░░   84.33 %
+JavaScript   0 secs                ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
 ```
 
 <!--END_SECTION:waka-->
