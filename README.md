@@ -75,8 +75,7 @@ I enjoy transforming ideas into impactful AI products and continuously exploring
 <!--START_SECTION:waka-->
 
 ```txt
-Other    2 hrs 13 mins         ████████████████████████▒   97.06 %
-Python   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+Python   4 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
