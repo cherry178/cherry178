@@ -75,7 +75,11 @@ I enjoy transforming ideas into impactful AI products and continuously exploring
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python      15 mins               ███████████▒░░░░░░░░░░░░░   45.13 %
+Bash        11 mins               ████████▓░░░░░░░░░░░░░░░░   34.65 %
+JSON        6 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
+Markdown    0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Batchfile   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
